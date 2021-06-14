@@ -77,7 +77,7 @@ body{
 }
 .dropdown-two {
     position:relative;display:inline-block;
-    float:right;transform:translateX(200px) translateY(50px);
+    float:right;transform:translateX(-200px) translateY(50px);
 }
 .dropdown-two-content {
     display:none;
