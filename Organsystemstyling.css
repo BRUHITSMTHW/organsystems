@@ -77,7 +77,7 @@ body{
 }
 .dropdown-two {
     position:relative;display:inline-block;
-    float:right;
+    float:right;transform:translateX(-10%);
 }
 .dropdown-two-content {
     display:none;
